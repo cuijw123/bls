@@ -18,7 +18,7 @@
     {
       "name": "Easy·测试-2",
       "type": 0,
-      "url": "https://gh-proxy.com/github.com/EasyXC/EasyTVbox/raw/main/tv.png",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/EasyXC/EasyTVbox/main/tv.png",
       "timeout": 10
     },
     {
@@ -50,7 +50,7 @@
       "key": "aowu弹幕",
       "name": "嗷呜🐺弹幕搜索自启",
       "type": 3,
-      "jar": "https://gitee.com/M60m/60/raw/master/lib/aow--dm.png",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bzr-zd/2/main/lib/aow--dm.png",
       "api": "csp_GoConfigAmns",
       "indexs": 1,
       "searchable": 1,
@@ -125,7 +125,7 @@
       "name": "景景💯原画4K",
       "type": 3,
       "api": "csp_HBcms10Dou",
-      "jar": "hhttps://codeberg.org/iblr/1/raw/branch/main/jars/blrHB.png",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bzr-zd/2/main/jars/blrHB.png",
       "ext": "https://zy.jinchancaiji.com/api.php/provide/vod/from/qq/"
     },
     {
@@ -133,7 +133,7 @@
       "name": "茂茂💯原画4K",
       "type": 3,
       "api": "csp_HBcms10Dou",
-      "jar": "https://codeberg.org/iblr/1/raw/branch/main/jars/blrHB.png",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bzr-zd/2/main/jars/blrHB.png",
       "ext": "https://zy.jinchancaiji.com/api.php/provide/vod/from/mgtv/"
     },
     {
@@ -141,7 +141,7 @@
       "name": "秋秋💯原画4K",
       "type": 3,
       "api": "csp_MYzhiqiu",
-      "jar": "hhttps://codeberg.org/iblr/1/raw/branch/main/jars/blrHB.png",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bzr-zd/2/main/jars/blrHB.png",
       "ext": "https://fishapi.wya6.com/fish/zhiqiu.php"
     },
     {
@@ -329,7 +329,7 @@
       "name": "裤库💯移冻4K",
       "type": 3,
       "api": "csp_AweSomeGuard",
-      "jar": "https://codeberg.org/iblr/1/raw/branch/main/jars/%E8%A3%A4KULaoasfryhcxhikjgfzxvbbnjjhy.png",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bzr-zd/2/main/jars/%E8%A3%A4KULaoasfryhcxhikjgfzxvbbnjjhy.png",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -385,7 +385,7 @@
       "key": "hajim·影探yingtan观影",
       "name": "影坛💯测试4K",
       "type": 3,
-      "api": "https://gitee.com/M60m/abandoned/raw/master/js/影探观影.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/bzr-zd/2/main/js/影探观影.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -416,7 +416,7 @@
       "name": "狐狐✅有4K",
       "type": 3,
       "api": "csp_HBAppfox",
-      "jar": "https://codeberg.org/iblr/1/raw/branch/main/jars/blrHB.png",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bzr-zd/2/main/jars/blrHB.png",
       "ext": "http://host1.sopython.top/host.json"
     },
     {
@@ -427,19 +427,19 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/M60m/abandoned/raw/master/js/人人.png"
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/bzr-zd/2/main/js/人人.png"
     },
     {
       "key": "山有｜木兮Symx",
       "name": "山山✅有4K",
       "type": 3,
-      "api": "https://gitee.com/M60m/abandoned/raw/master/js/木兮.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/bzr-zd/2/main/js/木兮.py",
       "ext": "https://film.symx.club"
     },
     {
       "key": "🐂niuma-魔方",
       "name": "魔魔✅有4K",
-      "jar": "https://gitee.com/nm_nm/interface/raw/master/spider0105.jar;md5;b70b5e20e0f97605e512476417bd12c9",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bzr-zd/2/main/js/spider0105.jar",
       "type": 3,
       "searchable": 1,
       "changeable": 1,
@@ -457,7 +457,7 @@
       "searchable": 1,
       "changeable": 1,
       "api": "csp_AppGet",
-      "jar": "https://codeberg.org/iblr/1/raw/branch/main/jars/MmiNJFGHH9bd18-da9.png",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bzr-zd/2/main/jars/XMmiNJFGHH9bd18-da9.png",
       "ext": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxhqj.txt|kj37zs29q22jk96t|122|okhttp/3.10.0|Lavf/58.12.100"
     },
     {
@@ -466,7 +466,7 @@
       "type": 3,
       "timeout": 15,
       "api": "csp_AppGet",
-      "jar": "https://codeberg.org/iblr/1/raw/branch/main/jars/MmiNJFGHH9bd18-da9.png",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bzr-zd/2/main/jars/XMmiNJFGHH9bd18-da9.png",
       "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q21.txt|okkfKgnc9JIBISh1|122"
     },
     {
@@ -475,7 +475,7 @@
       "type": 3,
       "timeout": 15,
       "api": "csp_App3Q",
-      "jar": "https://codeberg.org/iblr/1/raw/branch/main/jars/MmiNJFGHH9bd18-da9.png"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bzr-zd/2/main/jars/XMmiNJFGHH9bd18-da9.png"
     },
     {
       "key": "xm-小羊.仓鼠",
@@ -483,7 +483,7 @@
       "type": 3,
       "timeout": 15,
       "api": "csp_AppGet",
-      "jar": "https://codeberg.org/iblr/1/raw/branch/main/jars/MmiNJFGHH9bd18-da9.png",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bzr-zd/2/main/jars/XMmiNJFGHH9bd18-da9.png",
       "ext": "https://qjappcms410.xy4k.com|mC6kG4mI1uM8tS4o|122"
     },
     {
@@ -493,7 +493,7 @@
       "searchable": 1,
       "changeable": 1,
       "api": "csp_AppGet",
-      "jar": "https://codeberg.org/iblr/1/raw/branch/main/jars/MmiNJFGHH9bd18-da9.png",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bzr-zd/2/main/jars/XMmiNJFGHH9bd18-da9.png",
       "ext": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/APP.txt|kB79jPQIpDxxcy7y|122"
     },
     {
@@ -502,7 +502,7 @@
       "type": 3,
       "timeout": 15,
       "api": "csp_AppGet",
-      "jar": "https://codeberg.org/iblr/1/raw/branch/main/jars/MmiNJFGHH9bd18-da9.png",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bzr-zd/2/main/jars/XMmiNJFGHH9bd18-da9.png",
       "ext": "https://4ksjcms.4ksj.app|bF4fD1fC0gR0mB0b"
     },
     {
@@ -709,7 +709,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "filterable": 1,
-      "jar": "https://codeberg.org/iblr/1/raw/branch/main/jars/MOdadasdasdasdas.png",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bzr-zd/2/main/jars/yimi_09c63-3288508f-cf34-4dbc-88d4-fbfd845b891a.png",
       "ext": {
         "sp": "Duboku",
         "danmu": true
@@ -723,7 +723,7 @@
       "api": "csp_AppGet",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://codeberg.org/iblr/1/raw/branch/main/jars/MOdadasdasdasdas.png",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bzr-zd/2/main/jars/MO-y-dadasdasdasdas.png",
       "ext": "AbJhoE7SW3YVasqvc+pa+G72k+T3ir+2g1NBGIr+WR241wHaXGkPxuTLLy/TnbCftRxStwIpuUfPUpBcYPV+K2fsqe0kFfcGsbLIlXYQBHlHKm77Wg95LgvthL3VdHlpTUAGhCRuKuxGxVbRa1xSwGKcNPw2vOF7dCBBcULoQo9PMTTlPX67HJl7U9L7SErLLQIoKQ6HQPrL6OMRrrbzSZI="
     },
     {
@@ -733,7 +733,7 @@
       "api": "csp_AppGet",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://codeberg.org/iblr/1/raw/branch/main/jars/MOdadasdasdasdas.png",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bzr-zd/2/main/jars/MO-y-dadasdasdasdas.png",
       "ext": "AbG7h4pmDnn/waoolgqc8W4kIhS+tE907yHIEgYckbWEi3wH79nTiAgj7bpB+YqToiFOM9EWVM678o/8wF/l6lmYKRX/nzLpvDy3R0qQPIQqjHln23L5L3+Psnk2XxFC5jCqmTu49ip/+ho2bvZpD3aWEof4ob377XwQS1uZYPh15i51WB128btBmVtAO+RbQwejzHfLdBDRFM/GUyRHwek="
     },
     {
@@ -743,7 +743,7 @@
       "api": "csp_AppGet",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://codeberg.org/iblr/1/raw/branch/main/jars/MOdadasdasdasdas.png",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bzr-zd/2/main/jars/MO-y-dadasdasdasdas.png",
       "ext": "AQ8xy13uUB+vU0X5VQoLoHQ0PbaWVadAyXpMKT4lGXmz4P8/XgMiirPtAaVdXwlAm5uF7AEvL3DXQh1rGvz8VkkK/iJRxAipX1t/HMeh8FiNDuXLu5Z6IRNARKpTACYVrIClJSw/mWpypTq/VHPWokB3OA8LPPKPaOao8P8nVbJ8xyA50XNWEVFnl2cVRf3xMlAzAZVOwhnDWXYRcDjo8oE="
     },
     {
@@ -753,7 +753,7 @@
       "api": "csp_AppGet",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://codeberg.org/iblr/1/raw/branch/main/jars/MOdadasdasdasdas.png",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bzr-zd/2/main/jars/MO-y-dadasdasdasdas.png",
       "ext": "ASeCaY5Xxcx0BdbJGIqllhkRBuCPwC/Kv1uDvURkfncW+fNupjJjBKERvDuCKL7Nc8bCYJ/Fboktq3geJgU0aE2SxOjoiU03IEtvv1np76XEOBn7dBJNwW8toIqv9PBY9T18yzCX3DoyksVEv01kRtBDqSTgbilbqOHhtNEm+L3ti2PLM08SEhkA/nE//PAwfIVtUWhsYKorNLuB7RxQ2Egqj4D7q7Tw3sH/yNbHthqw"
     },
     {
@@ -763,7 +763,7 @@
       "searchable": 1,
       "changeable": 1,
       "api": "csp_AppGet",
-      "jar": "https://codeberg.org/iblr/1/raw/branch/main/jars/MOdadasdasdasdas.png",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bzr-zd/2/main/jars/MO-y-dadasdasdasdas.png",
       "ext": "AZMWjtBVHqg1eqc24zPBCnp+8nUMJ1DhABffeziVNB/hZ1AHDr9HynmQ7Hea0MJa9TQvImvwo+VcBjCulptXIj6796jroFgU16XtcGODMtfDJ8RJjrEa+2QJ1eVamXkB+N3GrowCHjQsVd5GK4QAxVeW7oVMa/kmxFpF4XWFHhz5YGcXOSxIhznhRlZln5Ap8sol6sjWUfBhblNbLgjDBzKdTxu/NjbUZFhO8y6IP8SZhvrY0CxMo8/Kp6AnCYGRyA=="
     },
     {
@@ -771,14 +771,14 @@
       "name": "官方🌀直连",
       "type": 3,
       "api": "csp_HB360",
-      "jar": "https://codeberg.org/iblr/1/raw/branch/main/jars/blrHB.png"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bzr-zd/2/main/jars/blrHB.png"
     },
     {
       "key": "HB天天",
       "name": "天天🌀蓝光",
       "type": 3,
       "api": "csp_HBtiantianv3",
-      "jar": "https://codeberg.org/iblr/1/raw/branch/main/jars/blrHB.png",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bzr-zd/2/main/jars/blrHB.png",
       "ext": "http://v.rbotv.cn"
     },
     {
@@ -786,7 +786,7 @@
       "name": "文才🌀蓝光",
       "type": 3,
       "api": "csp_Wcai",
-      "jar": "https://codeberg.org/iblr/1/raw/branch/main/jars/blrHB.png",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bzr-zd/2/main/jars/blrHB.png",
       "ext": "https://www.jxshdzs.com/"
     },
     {
@@ -794,7 +794,7 @@
       "name": "海纳🌀蓝光",
       "type": 3,
       "api": "csp_HBPQ",
-      "jar": "https://codeberg.org/iblr/1/raw/branch/main/jars/blrHB.png",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bzr-zd/2/main/jars/blrHB.png",
       "ext": "http://103.45.162.207:25252/仅供测试/lib/海纳影视.json"
     },
 
@@ -874,7 +874,7 @@
       "key": "kjtw-py_jieyingshi",
       "name": "七星🌀蓝光",
       "type": 3,
-      "api": "https://gitee.com/M60m/abandoned/raw/master/js/twkj•jieyingshi.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/bzr-zd/2/main/js/twkj%E2%80%A2jieyingshi.py",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -886,7 +886,7 @@
       "type": 3,
       "api": "csp_Nmvod",
       "playerType": 2,
-      "jar": "https://gitee.com/tianwikeji/jar/raw/master/柠檬.jar",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bzr-zd/2/main/js/柠檬.png",
       "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
     },
     {
@@ -903,7 +903,7 @@
       "name": "比特🌀蓝光",
       "type": 3,
       "api": "csp_AweSomeGuard",
-      "jar": "https://codeberg.org/iblr/1/raw/branch/main/jars/%E8%A3%A4KULaoasfryhcxhikjgfzxvbbnjjhy.png",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bzr-zd/2/main/jars/%E8%A3%A4KULaoasfryhcxhikjgfzxvbbnjjhy.png",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -1066,18 +1066,18 @@
       "key": "lzxw-皮皮.虾",
       "name": "皮皮🌀虾蓝光",
       "type": 3,
-      "api": "https://gitee.com/M60m/abandoned/raw/master/js/Applzxw.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/bzr-zd/2/main/js/Applzxw.py",
       "ext": "http://38.55.237.41:8762"
     },
     {
       "key": "lzxw-番喜",
       "name": "番喜🌀蓝光4k",
       "type": 3,
-      "api": "https://gitee.com/M60m/abandoned/raw/master/js/Applzxw.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/bzr-zd/2/main/js/Applzxw.py",
       "ext": "http://118.89.203.120:8365/"
     },
     {
-      "key": "咕噜vox映画",
+      "key": "hhajimi-咕噜vox映画",
       "name": "咕噜🌀蓝光4k",
       "type": 3,
       "changeable": 0,
@@ -1152,7 +1152,7 @@
       "name": "奥陌👑动漫线",
       "type": 3,
       "api": "csp_AweSomeGuard",
-      "jar": "https://codeberg.org/iblr/1/raw/branch/main/jars/%E8%A3%A4KULaoasfryhcxhikjgfzxvbbnjjhy.png",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bzr-zd/2/main/jars/%E8%A3%A4KULaoasfryhcxhikjgfzxvbbnjjhy.png",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -1175,17 +1175,37 @@
       "genre": "shortdrama"
     },
     {
+            "key": "csp_T4_短剧",
+            "name": "短剧🍑短剧线",
+            "type": 4,
+            "api": "https://api.uumnet.com/tvbox/php/nxduanju.php",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+     {
+            "key": "Cat_聚合短剧[短]",
+            "name": "聚合🍑短剧线",
+            "type": 3,
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/bzr-zd/2/main/js/juhedj.js",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "类型": "短剧"
+        },
+    {
       "key": "红果js",
       "name": "红果🍑短剧线",
       "type": 3,
-      "api": "https://gitee.com/M60m/abandoned/raw/master/js/红果短剧.js"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/bzr-zd/2/main/js/红果短剧.js"
     },
     {
       "key": "裤佬星芽短剧",
       "name": "星芽🍑短剧线",
       "type": 3,
       "api": "csp_AweSomeGuard",
-      "jar": "https://codeberg.org/iblr/1/raw/branch/main/jars/%E8%A3%A4KULaoasfryhcxhikjgfzxvbbnjjhy.png",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bzr-zd/2/main/jars/%E8%A3%A4KULaoasfryhcxhikjgfzxvbbnjjhy.png",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -1210,7 +1230,7 @@
       "name": "韩剧🐷韩小圈",
       "type": 3,
       "api": "csp_AweSomeGuard",
-      "jar": "https://codeberg.org/iblr/1/raw/branch/main/jars/%E8%A3%A4KULaoasfryhcxhikjgfzxvbbnjjhy.png",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bzr-zd/2/main/jars/%E8%A3%A4KULaoasfryhcxhikjgfzxvbbnjjhy.png",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -1226,7 +1246,7 @@
       "key": "lzxw新韩剧网",
       "name": "韩剧🐷新韩网",
       "type": 3,
-      "api": "https://gitee.com/lzxw66/lzxw9/raw/master/py/新韩剧网.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/tushen6/Tattoo/refs/heads/main/OK/py/新韩剧网.py",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -1722,7 +1742,7 @@
       "name": "如需加内容请告知-[测试线路]·仅供测试使用·可能无法正常播放,请切换其他线路!",
       "type": 3,
       "api": "csp_HBxLei8",
-      "jar": "https://gitee.com/M60m/abandoned/raw/master/jars/blrHB.png"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bzr-zd/2/main/jars/blrHB.png"
     },
     {
       "key": "push_agent",
