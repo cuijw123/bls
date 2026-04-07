@@ -75,39 +75,39 @@
       "key": "藤藤",
       "name": "腾讯💯天神4K",
       "type": 3,
-      "api": "https://gitee.com/cpu-iy/lib/raw/master/lib/drpy2.min.js",
-      "ext": "https://gitee.com/cpu-iy/iy/raw/master/lib/%E8%97%A4%E8%97%A4.png"
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/藤藤.png"
     },
     {
       "key": "茫茫",
       "name": "芒果💯天神4K",
       "type": 3,
-      "api": "https://gitee.com/cpu-iy/lib/raw/master/lib/drpy2.min.js",
-      "ext": "https://gitee.com/cpu-iy/iy/raw/master/lib/%E8%8C%AB%E8%8C%AB.png"
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/茫茫.png"
     },
     {
       "key": "hajim-腾讯备",
       "name": "腾讯💯藤藤4K",
       "type": 3,
-      "api": "https://gitee.com/cpu-iy/lib/raw/master/lib/drpy2.min.js",
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://163647792873472.abvod.cn/腾腾.js"
+      "ext": "https://fastlink.cokey.xyz/f/1MOEc5/%E8%85%BE%E8%85%BE.js"
     },
     {
       "key": "hajim-芒果备",
       "name": "芒果💯忙忙4K",
       "type": 3,
-      "api": "https://gitee.com/cpu-iy/lib/raw/master/lib/drpy2.min.js",
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://163647792873472.abvod.cn/芒果.js"
+      "ext": "https://fastlink.cokey.xyz/f/pm88tj/%E8%8A%92%E6%9E%9C.js"
     },
     {
       "key": "hajim-哔哩-哔了视频",
       "name": "哔哩💯哔哩4K",
       "type": 3,
-      "api": "https://gitee.com/xiayede/tvbox/raw/master/drpy2.min.js",
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
       "ext": "https://163647792873472.abvod.cn/哔哩.js"
     },
     {
@@ -145,44 +145,54 @@
       "ext": "https://fishapi.wya6.com/fish/zhiqiu.php"
     },
     {
-      "key": "hjm-gaoxing-蜡笔",
-      "name": "蜡滗💯原画4K",
+      "key": "玩偶",
+      "name": "玩偶💯天神4K",
       "type": 3,
-      "api": "csp_ZC4K",
-      "jar": "https://gitee.com/zhouyadong7033/box/raw/master/JS/ZC4KK.jar",
-      "ext": "YUhSMGNEb3ZMekV4Tmk0Mk1pNHhNek11T0RZNk5UWTJPREV2VkRRdlZEVXZZWEJwTWk1d2FIQS9jMmwwWlQxc1lXSnBNeU1qSTJ4aFlta3o="
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "sp": "Wogg",
+        "cookie": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/qk.png",
+        "uc_cookie": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/uc.png",
+        "baidu_cookie": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/bd.png"
+      },
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/ok.png"
     },
     {
-      "key": "hjm-gaoxing-木偶",
-      "name": "沐偶💯原画4K",
+      "key": "云集",
+      "name": "云集💯天神4K",
       "type": 3,
-      "api": "csp_ZC4K",
-      "jar": "https://gitee.com/zhouyadong7033/box/raw/master/JS/ZC4KK.jar",
-      "ext": "YUhSMGNEb3ZMekV4Tmk0Mk1pNHhNek11T0RZNk5UWTJPREV2VkRRdlZEWXZZWEJwTWk1d2FIQS9jMmwwWlQxdGRXOTFJeU1qYlhWdmRRPT0="
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "sp": "YunJi",
+        "cookie": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/qk.png",
+        "uc_cookie": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/uc.png",
+        "baidu_cookie": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/bd.png"
+      },
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/ok.png"
     },
      {
-      "key": "hjm-gaoxing-至臻阿里",
-      "name": "至臻💯原画4K",
+      "key": "4K指南",
+      "name": "指南💯天神4K",
       "type": 3,
-      "api": "csp_ZC4K",
-      "jar": "https://gitee.com/zhouyadong7033/box/raw/master/JS/ZC4KK.jar",
-      "ext": "YUhSMGNEb3ZMekV4Tmk0Mk1pNHhNek11T0RZNk5UWTJPREV2VkRRdlZEVXZZWEJwTWk1d2FIQS9jMmwwWlQxdGFXaGtjaU1qSTIxcGFHUnk="
-    },
-    {
-      "key": "hjm-gaoxing-臻闪电",
-      "name": "闪电💯原画4K",
-      "type": 3,
-      "api": "csp_ZC4K",
-      "jar": "https://gitee.com/zhouyadong7033/box/raw/master/JS/ZC4KK.jar",
-      "ext": "YUhSMGNEb3ZMekV4Tmk0Mk1pNHhNek11T0RZNk5UWTJPREV2VkRRdlZEVXZZWEJwTWk1d2FIQS9jMmwwWlQxemFHRnVaR2xoYmlNakkzTm9ZVzVrYVdGdQ=="
-    },
-    {
-      "key": "hjm-gaoxing-小虎玩",
-      "name": "小虎💯原画4K",
-      "type": 3,
-      "api": "csp_ZC4K",
-      "jar": "https://mpimg.cn/down.php/b4b695cf12db5356b2bf50afbccb7452.jar",
-      "ext": "YUhSMGNEb3ZMekV4Tmk0Mk1pNHhNek11T0RZNk5UWTJPREV2VkRRdlZEVXZZWEJwTWk1d2FIQS9jMmwwWlQxb2RXSmhiaU1qSTJKMVltRnU="
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 0,
+      "ext": {
+        "sp": "Zn4k",
+        "cookie": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/qk.png",
+        "uc_cookie": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/uc.png",
+        "baidu_cookie": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/bd.png"
+      },
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/ok.png"
     },
     {
       "key": "墨C-baidu_cloud",
