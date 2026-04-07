@@ -161,8 +161,8 @@
       "jar": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/ok.png"
     },
     {
-      "key": "云集",
-      "name": "云集💯天神4K",
+      "key": "小飒",
+      "name": "小飒💯天神4K",
       "type": 3,
       "api": "csp_AweSomeGuard",
       "searchable": 1,
@@ -170,24 +170,24 @@
       "changeable": 1,
       "filterable": 1,
       "ext": {
-        "sp": "YunJi",
+        "sp": "Xsayang",
         "cookie": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/qk.png",
         "uc_cookie": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/uc.png",
         "baidu_cookie": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/bd.png"
       },
       "jar": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/ok.png"
     },
-     {
-      "key": "4K指南",
-      "name": "指南💯天神4K",
+    {
+      "key": "至臻",
+      "name": "至臻💯天神4K",
       "type": 3,
       "api": "csp_AweSomeGuard",
       "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 0,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
       "ext": {
-        "sp": "Zn4k",
+        "sp": "ZhiZhen",
         "cookie": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/qk.png",
         "uc_cookie": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/uc.png",
         "baidu_cookie": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/bd.png"
